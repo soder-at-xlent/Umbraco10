@@ -1,1 +1,1 @@
-# Umbraco10
+# Umbraco10 sample project
