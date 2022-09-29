@@ -1,0 +1,6 @@
+﻿@inherits UmbracoViewPage<Umbraco.Cms.Core.Models.Blocks.BlockListItem>
+@{
+    var content = (TextBlock)Model.Content;
+}
+
+<div>@content.Text</div>
